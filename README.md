@@ -24,7 +24,7 @@ Puedes descargar la máquina virtual usada en la prueba (formato `.ova`) desde e
 > En la máquina virtual encontrarás los retos ya descargados, junto con pistas en los marcadores del navegador.
 
 ## 📘 Guía de retos
-La contraseñas de los retos y sus soluciones fueron publicados semanalmente en [https://www.codigoactivo.es/captura-la-bandera-2024/](https://www.codigoactivo.es/captura-la-bandera-2024/). En este repositorio puedes encontrar la guía completa con todas las soluciones.
+La contraseñas de los retos y sus soluciones fueron publicados semanalmente en [https://www.codigoactivo.es/captura-la-bandera-2024/](https://www.codigoactivo.es/captura-la-bandera-2024/). Además la guía completa se puede encontrar en [https://drive.google.com/file/d/1IvjGalj20OoBKPYZnfOw2rpb4Ynp5yuM/view?usp=sharing](https://drive.google.com/file/d/1IvjGalj20OoBKPYZnfOw2rpb4Ynp5yuM/view?usp=sharing).
 
 ---
 
